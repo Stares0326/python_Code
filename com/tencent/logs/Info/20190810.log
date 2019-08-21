@@ -1,0 +1,6 @@
+2019-08-10 16:39:15,161 --test [INFO]:
+当前出错了,错误码404
+2019-08-10 16:39:15,166 --test [INFO]:
+当前出错了,错误信息404 Client Error: Not Found for url: http://47.94.86.16/shop/indexxxx
+2019-08-10 16:39:15,166 --test [INFO]:
+当前出错了,错误信息404 Client Error: Not Found for url: http://47.94.86.16/shop/indexxxx
